@@ -1,3 +1,8 @@
+
+## Comandos 100 [here](https://blog.desdelinux.net/tips-mas-de-40berias-conocer/)
+
+https://blog.desdelinux.net/tips-mas-de-40berias-conocer/
+
 ## Configuración Básica
 
 Configurar Nombre que salen en los commits
