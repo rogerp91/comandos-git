@@ -310,5 +310,11 @@ Merge con master de un fork
 
 
 Listar Merge
-```git ls-files -u
 ```
+
+	git ls-files -u
+
+
+```
+
+
