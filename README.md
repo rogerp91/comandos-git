@@ -307,3 +307,8 @@ Merge con master de un fork
 	git fetch upstream
 	git merge upstream/master
 ```
+
+
+Listar Merge
+```git ls-files -u
+```
